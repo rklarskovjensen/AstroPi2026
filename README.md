@@ -81,7 +81,7 @@ Afleveringen skal indeholde selve koden og en forklaring af hver funktion og sel
 Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
 - et rutediagram kan tegnes for hvordan programmet gennemføres.
 
--det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på min github side:
+- det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på min github side:
 https://github.com/rklarskovjensen/FIP22/tree/main)
 
 
