@@ -32,6 +32,10 @@ Nogen gange kan det tage lidt tid at kører programkoden, her kaldet main.py.  N
 
 <img width="867" height="976" alt="billede" src="https://github.com/user-attachments/assets/da273a6f-81c8-46d5-80cc-d0e5947b5702" />
 
+##### Til punkt 4. :
+
+Pdf med oplæg om globale perspektiver findes her:
+https://github.com/rklarskovjensen/FIP22/blob/main/FIP22%20Opl%C3%A6g%20om%20billedbahandling%20med%20Globalt%20perspektiv.(2).pdf  [Eller tryk på link her](https://github.com/rklarskovjensen/FIP22/blob/main/FIP22%20Opl%C3%A6g%20om%20billedbahandling%20med%20Globalt%20perspektiv.(2).pdf)
 
 
 
