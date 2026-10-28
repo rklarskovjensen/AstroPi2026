@@ -26,6 +26,7 @@ https://astro-pi-replay-online.astro-pi.org/
 
 Nogen gange kan det tage lidt tid at kører programkoden, her kaldet main.py.  Når koden har kørt skulle der gerne komme følgende figur frem:
 
+<img width="867" height="976" alt="billede" src="https://github.com/user-attachments/assets/da273a6f-81c8-46d5-80cc-d0e5947b5702" />
 
 
 
