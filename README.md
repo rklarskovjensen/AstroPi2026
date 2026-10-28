@@ -53,7 +53,7 @@ https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0 [Eller følg de
 
 
 
-Prøv først at 'bladre' vejledningen igennem uden at se nærmere på hvad der står gå først efter at danne dig et overblik.  Gå så derefter de forklaringer som du enten kan genkende.  Eller gå efter de forklaringer som du beslutter er de vigtigste.
+Prøv først at 'bladre' vejledningen igennem uden at se nærmere på hvad der står gå først efter at danne dig et overblik.  Gå så derefter de forklaringer som du enten kan genkende eller som du beslutter er de vigtigste.
 
 
 
