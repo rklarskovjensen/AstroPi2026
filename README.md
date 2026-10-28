@@ -13,10 +13,17 @@ så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden 
 
 ##### 2. og 3.:
 Her er filen med python koden til at bestemme hastigheden af ISS med.  Den her kode skal vi se på som første skridt ind i mission space lab projektet:
-https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py :
+https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py
 [Eller tryk her på linket](https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py)
 
-Hent filen ned på din bærebare computer og opload den så på AstroPI Replay Online.
+Hent filen ned på din bærebare computer læg godt mærke til hvor på din computer filen kommer ned at ligge.  
+Du skal nemlig kunne finde filen så du kan oploade på AstroPI Replay Online.  Det er vigtigt at filen hedder 'main.py' når du oploader den.  Nogen gange ændres navne på filer når de downloades.
+
+Her er stedet kaldet replay tool hvor filen skal oploades:
+https://astro-pi-replay-online.astro-pi.org/  
+[Eller tryk her på linket](https://astro-pi-replay-online.astro-pi.org/)
+
+Nogen gange kan det tage lidt tid at kører programkoden, her kaldet main.py.
 
 ESA har opdateret deres to Astro Pi på ISS. Der er kommet en ny PIR sensor til detektion af astronauter, et HQ kamera til jordobservation og machine learning modul. Styresystemet er også opdateret til det nye Rasbian Buster. Det kører også på de gamle Astro Pi og man kan hente billedet på astro.pi hjemmeside. 
 Der er også nye pythonbiblioteker, en oversig kan findes her,
