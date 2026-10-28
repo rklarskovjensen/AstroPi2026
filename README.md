@@ -48,8 +48,12 @@ Sæt det kopierede ind i en editor eller et tekstbehandlingssystem, feks 'word'.
 ##### Til punkt 6. :
 For at kunne skrive forklarende kommentarer til linjerne skal der som du måske nok har opdaget skrives et '#' tegn for enden af linjen med kode.  Så kan man skrive almindelig tekst efter hash tegnet, som forklarer koden i den pågældende linje.
 
-Forklaringer på koden findes på her:
+Forklaringer på koden findes på her i denne vejledning på engelsk som viser hvordan man selv kan sætte hele koden op:
+https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0 [Eller følg dette link](https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0)
 
+
+
+Prøv først at 'bladre' vejledningen igennem uden at se nærmere på hvad der står gå først efter at danne dig et overblik.  Gå så derefter de forklaringer som du enten kan genkende.  Eller gå efter de forklaringer som du beslutter er de vigtigste.
 
 
 
