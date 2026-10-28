@@ -4,14 +4,16 @@ Først skal kommentarerne være et budskab til en person nede på jorden.
 så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden virker.
 # Tidsplanen for Astro Pi aktiviteten er som følger:
 
-#### 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
-#### 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
-#### 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
-#### 15 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
-#### 15 minutter: Skriv en hilsen til jorden fra Rumstationen   
-#### 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
+##### 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
+##### 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
+##### 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
+##### 15 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
+##### 15 minutter: Skriv en hilsen til jorden fra Rumstationen   
+##### 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
 
+Her er koden til at bestemme hastigheden af ISS med.  Den her kode skal vi se på i den er første skridt ind i mission space lab projektet.
 
+Hent filen ned på din bærebare computer og opload den så på AstroPI Replay Online.
 
 ESA har opdateret deres to Astro Pi på ISS. Der er kommet en ny PIR sensor til detektion af astronauter, et HQ kamera til jordobservation og machine learning modul. Styresystemet er også opdateret til det nye Rasbian Buster. Det kører også på de gamle Astro Pi og man kan hente billedet på astro.pi hjemmeside. 
 Der er også nye pythonbiblioteker, en oversig kan findes her,
