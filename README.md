@@ -45,5 +45,11 @@ Sæt det kopierede ind i en editor eller et tekstbehandlingssystem, feks 'word'.
 
 Øverst i filen 'main.py' står der hvordan du skal skrive en lille hilsen fra rumstationen til en der står dig nær nede på jorden. 
 
-Hvis du har adgang 
+##### Til punkt 6. :
+For at kunne skrive forklarende kommentarer til linjerne skal der som du måske nok har opdaget skrives et '#' tegn for enden af linjen med kode.  Så kan man skrive almindelig tekst efter hash tegnet, som forklarer koden i den pågældende linje.
+
+Forklaringer på koden findes på her:
+
+
+
 
