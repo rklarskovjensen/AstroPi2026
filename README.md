@@ -4,12 +4,12 @@ Først skal kommentarerne være et budskab til en person nede på jorden.
 så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden virker.
 # Tidsplanen for Astro Pi aktiviteten er som følger:
 
-## 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
-## 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
-## 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
-## 15 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
-## 15 minutter: Skriv en hilsen til jorden fra Rumstationen   
-## 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
+#### 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
+#### 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
+#### 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
+#### 15 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
+#### 15 minutter: Skriv en hilsen til jorden fra Rumstationen   
+#### 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
 
 
 
