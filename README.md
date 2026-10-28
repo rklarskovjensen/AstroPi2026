@@ -55,5 +55,17 @@ https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0 [Eller følg de
 
 Prøv først at 'bladre' vejledningen igennem uden at se nærmere på hvad der står gå først efter at danne dig et overblik.  Gå så derefter de forklaringer som du enten kan genkende eller som du beslutter er de vigtigste.
 
+Fra denne aktivitet arbejdes der frem mod følgende skriftlige aflevering:
+
+Opgave går ud på at aflevere en forklaring på koden, vedlagt ved navn main.py der bestemmer hastigheden af den internationale rumstation ISS.  
+Afleveringen skal indeholde selve koden og en forklaring af hver funktion og selve hovedprogrammet med kommentarer til de vigtigste linier. 
+
+Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
+- et rutediagram kan tegnes for hvordan programmet gennemføres.
+
+-det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på følgende github side:
+https://github.com/rklarskovjensen/FIP22/tree/main
+
+
 
 
