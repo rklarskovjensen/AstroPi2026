@@ -37,5 +37,13 @@ Nogen gange kan det tage lidt tid at kører programkoden, her kaldet main.py.  N
 Pdf med oplæg om globale perspektiver findes her:
 https://github.com/rklarskovjensen/FIP22/blob/main/FIP22%20Opl%C3%A6g%20om%20billedbahandling%20med%20Globalt%20perspektiv.(2).pdf  [Eller tryk på link her](https://github.com/rklarskovjensen/FIP22/blob/main/FIP22%20Opl%C3%A6g%20om%20billedbahandling%20med%20Globalt%20perspektiv.(2).pdf)
 
+##### Til punkt 5. :
+Gå ind her og kopier indholdet fra filen ved navn main.py:
+https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py [Eller tryk på link her](https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py)
 
+Sæt det kopierede ind i en editor eller et tekstbehandlingssystem, feks 'word'.  Hvis du har adgang til at installere programmer på din computer så er det rigtigt godt at installere 'thonny' fra thonny.org [Thonny kan installeres fra dette lin](https://thonny.org/).
+
+Øverst i filen 'main.py' står der hvordan du skal skrive en lille hilsen fra rumstationen til en der står dig nær nede på jorden. 
+
+Hvis du har adgang 
 
