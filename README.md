@@ -61,28 +61,13 @@ Opgave går ud på at aflevere en forklaring på koden, vedlagt ved navn main.py
 Afleveringen skal indeholde selve koden og en forklaring af hver funktion og selve hovedprogrammet med kommentarer til de vigtigste linier. 
 
 Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
-- et rutediagram kan tegnes for hvordan programmet gennemføres.
+- Et rutediagram kan tegnes for hvordan det vigtigste af programmet gennemføres.
 
-- det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på følgende github side:
+- Det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på min github side:
 
-https://github.com/rklarskovjensen/FIP22/tree/main  [Eller via linket her](Opgave går ud på at aflevere en forklaring på koden, vedlagt ved navn main.py der bestemmer hastigheden af den internationale rumstation ISS.  
-Afleveringen skal indeholde selve koden og en forklaring af hver funktion og selve hovedprogrammet med kommentarer til de vigtigste linier. 
-
-
-Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
-- et rutediagram kan tegnes for hvordan programmet gennemføres.
-
-- det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på følgende github side:
 https://github.com/rklarskovjensen/FIP22/tree/main)
-[Eller via link her](Opgave går ud på at aflevere en forklaring på koden, vedlagt ved navn main.py der bestemmer hastigheden af den internationale rumstation ISS.  
-Afleveringen skal indeholde selve koden og en forklaring af hver funktion og selve hovedprogrammet med kommentarer til de vigtigste linier. 
 
-
-Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
-- et rutediagram kan tegnes for hvordan programmet gennemføres.
-
-- det samme som med koden ovenfor kan gøres for programmet ved navn landSeaDetection.py som er tilgængeligt på min github side:
-https://github.com/rklarskovjensen/FIP22/tree/main)
+[Eller via link her](https://github.com/rklarskovjensen/FIP22/tree/main))
 
 
 
