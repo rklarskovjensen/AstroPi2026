@@ -12,7 +12,9 @@ så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden 
 ##### 6. 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
 
 ##### 2. og 3.:
-Her er filen med python koden til at bestemme hastigheden af ISS med.  Den her kode skal vi se på i den er første skridt ind i mission space lab projektet.
+Her er filen med python koden til at bestemme hastigheden af ISS med.  Den her kode skal vi se på som første skridt ind i mission space lab projektet:
+https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py
+[Eller tryk her på linket](https://github.com/rklarskovjensen/AstroPi2026/blob/main/main.py)
 
 Hent filen ned på din bærebare computer og opload den så på AstroPI Replay Online.
 
