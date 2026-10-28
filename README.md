@@ -51,11 +51,9 @@ For at kunne skrive forklarende kommentarer til linjerne skal der som du måske 
 Forklaringer på koden findes på her i denne vejledning på engelsk som viser hvordan man selv kan sætte hele koden op:
 https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0 [Eller følg dette link](https://projects.raspberrypi.org/en/projects/astropi-iss-speed/0)
 
-
-
 Prøv først at 'bladre' vejledningen igennem uden at se nærmere på hvad der står gå først efter at danne dig et overblik.  Gå så derefter de forklaringer som du enten kan genkende eller som du beslutter er de vigtigste.
 
-Fra denne aktivitet arbejdes der frem mod følgende skriftlige aflevering:
+# Fra denne aktivitet arbejdes der frem mod følgende skriftlige aflevering:
 
 Opgave går ud på at aflevere en forklaring på koden, vedlagt ved navn main.py der bestemmer hastigheden af den internationale rumstation ISS.  
 Afleveringen skal indeholde selve koden og en forklaring af hver funktion og selve hovedprogrammet med kommentarer til de vigtigste linier. 
@@ -68,6 +66,16 @@ Den del af opgaven her kan betragtes som frivilligt ekstra arbejde:
 https://github.com/rklarskovjensen/FIP22/tree/main)
 
 [Eller via link her](https://github.com/rklarskovjensen/FIP22/tree/main))
+
+# Mission Spacelab projekter:
+
+Mission space lab fra ESA giver mulighed for at komme med andre programmer som undersøger andet.  
+
+Python koden kan højest køre 10 minutter på et tidspunkt som ikke kan forudsiges nærmere end inden for en måneds varighed.  
+
+Man kan 'lege' videre med ideer til andre projekter i andre aktiviteter. Feks:
+- Analyser af infrarøde billeder taget fra ISS (ESA kommer også med andre vejledninger).
+- Analyser af betingelser for kartoffel dyrkning via ålinger med sensorer i den såkaldte 'sense hat'
 
 
 
