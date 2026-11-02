@@ -124,7 +124,7 @@ speed = calculate_speed_in_kmps(average_feature_distance, 12648, time_difference
 
 
 # Format the estimate_kmps to have a precision
-# of 5 significant figures
+# of 3 significant figures
 #timedifFormatted = "{:.3f}".format(timedif)
 
 #file_path = "result.txt"  # Replace with your desired file path
