@@ -6,7 +6,7 @@
 Her lærer du hvordan man skriver kommentarer i python kode, der bestemmer hastigheden af den internationale tumstation ISS.
 Først skal kommentarerne være et budskab til en person nede på jorden.
 så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden virker.
-# Tidsplanen for Astro Pi aktiviteten er som følger:
+# Tidsplanen for Astro Pi aktiviteten om hastighed er som følger:
 
 ##### 1. 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
 ##### 2. 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
@@ -78,4 +78,19 @@ Man kan 'lege' videre med ideer til andre projekter i andre aktiviteter. Feks:
 - Analyser af betingelser for kartoffel dyrkning via ålinger med sensorer i den såkaldte 'sense hat'
 
 
+# Tidsplanen for Astro Pi aktiviteten om Infrarøde billeder af jorden er som følger:
 
+##### 1. 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
+##### 2. 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
+##### 3. 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
+##### Pause i 5 minutter.
+##### 4. 10 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
+##### 5. 15 minutter: Skriv en hilsen til jorden fra Rumstationen   
+##### 6. 15 minutter: Kode formidling. og skriv forklarende kommentarer til koden
+
+##### Til punkt 2. og 3.:
+
+# Mission Spacelab aktivitet om NDVI:
+- Her forklares om NDVI: https://projects.raspberrypi.org/en/projects/astropi-ndvi/1
+- Hvis du ikke allerede har installeret Thonny.org så gør det.
+- 
