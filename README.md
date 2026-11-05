@@ -80,8 +80,8 @@ Man kan 'lege' videre med ideer til andre projekter i andre aktiviteter. Feks:
 
 # Tidsplanen for Astro Pi aktiviteten om Infrarøde billeder af jorden er som følger:
 
-##### 1. 15 minutter: Nærværsregistrering og Intro til mission space lab og Astro PI Replay online.
-##### 2. 15 minutter: Demo af replay til at bestemme hastighed med rumstationen.
+##### 1. 15 minutter: Nærværsregistrering og Leg med ideer til mission space lab og Astro PI Replay online.
+##### 2. 15 minutter: Demo af kode til at bestemme ndvi med Astro Pi nede på jorden og oppe fra rumstationen ISS.
 ##### 3. 15 minutter: Download filen main.py og opload den til replay værktøjet og kør det.
 ##### Pause i 5 minutter.
 ##### 4. 10 minutter: Kort oplæg om globale perspektiver og spørgsmål om bæredygtighed ved astro pi
