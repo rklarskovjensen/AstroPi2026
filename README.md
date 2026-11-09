@@ -77,8 +77,6 @@ Man kan 'lege' videre med ideer til andre projekter i andre aktiviteter. Feks:
 - Analyser af infrarøde billeder taget fra ISS (ESA kommer også med andre vejledninger).
 - Analyser af betingelser for kartoffel dyrkning via ålinger med sensorer i den såkaldte 'sense hat'
 - 
-<iframe src="https://scratch.mit.edu/projects/1437880697/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
 # Tidsplanen for Astro Pi aktiviteten om Infrarøde billeder af jorden er som følger:
 
 ##### 1. 15 minutter: Nærværsregistrering og Leg med ideer til mission space lab og Astro PI Replay online.
