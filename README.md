@@ -3,7 +3,7 @@
 
 [Link til readme filen](https://github.com/rklarskovjensen/AstroPi2026/edit/main/README.md)
 # AstroPi
-Her lærer du hvordan man skriver kommentarer i python kode, der bestemmer hastigheden af den internationale tumstation ISS.
+Her lærer du hvordan man skriver kommentarer i python kode, der bestemmer hastigheden af den internationale rumstation ISS.
 Først skal kommentarerne være et budskab til en person nede på jorden.
 så skal kommentarerne tjene til at forklare og og formidle hvordan pythonkoden virker.
 # Tidsplanen for Astro Pi aktiviteten om hastighed er som følger:
