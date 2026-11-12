@@ -4,7 +4,7 @@
 
 ##### 1. 15 minutter: Nærværsregistrering og Leg med ideer til mission space lab og Astro PI Replay online.
 ##### 2. 15 minutter: Demo af kode til at bestemme ndvi med Astro Pi nede på jorden og oppe fra rumstationen ISS.
-##### 3. 15 minutter: Download filen: 'ndvi7_ISSimages_scaled_and_contrasted_ndvi_calculated_and_colormapped_and_percentage_calculatedForOnlinereplayTool' omdøb til main.py og opload den til replay værktøjet og kør det.
+##### 3. 15 minutter: Download filen: 'tagInfraroedtbilledMedRaplay.py' omdøb til main.py og opload den til replay værktøjet og kør det.
 ##### Pause i 5 minutter.
 ##### 4. 10 minutter: Introduktion til online vejledningen til NDVI fra raspberrypi.org
 ##### 5. 15 minutter: Arbejde med at skrive forklaringer på koden med #
